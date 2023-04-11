@@ -40,7 +40,7 @@
 
 <b><details><summary>7. GWT</summary></b>
   
-  todo
+  [在GWT中实现JWT认证 - gwt-restygwt-jwtauthentication](https://github.com/schube/gwt-restygwt-jwtauthentication)
 
 </details>
 
